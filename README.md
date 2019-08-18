@@ -1,2 +1,2 @@
 # InstaLooker
-An application that sends followers and following analyzes on Instagram
+An application that sends mail followers and following analyzes on Instagram
